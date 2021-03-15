@@ -1,5 +1,8 @@
 # c_CoolText
-https://codepen.io/Navy/pen/oNYVpJP
+
+- [Online not maintained generator](https://codepen.io/Navy/pen/oNYVpJP)
+- [Actual generator](t.js)
+
 It's not the best! Not by far! This was coded in a quick minute to fill a single need!
 
 ## IT'S ALSO HEAVILY UNTESTED
